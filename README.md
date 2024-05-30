@@ -36,11 +36,10 @@ The project is organized into the following components:
     &nbsp;&nbsp;&nbsp;&nbsp;Click the `Start` button next to MySQL.
 3. Locate this Project in htdocs:<br>
     &nbsp;&nbsp;&nbsp;&nbsp;The htdocs directory is typically found in C:\xampp\htdocs\ on Windows or /Applications/XAMPP/htdocs/ on macOS.<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;our project folder should be directly inside htdocs. For example, if your project is named myproject, the path should be &nbsp;&nbsp;&nbsp;&nbsp;C:\xampp\htdocs\myproject (Windows) or /Applications/XAMPP/htdocs/myproject (macOS).
+    &nbsp;&nbsp;&nbsp;&nbsp;Our project folder should be directly inside htdocs.
 4. Access Your Project in a Browser:<br>
     &nbsp;&nbsp;&nbsp;&nbsp;Open your web browser.<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;Type http://localhost/your-project-folder into the address bar and press Enter.<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;Replace your-project-folder with the name of your project folder. For example, if your project folder is named myproject, you would go &nbsp;&nbsp;&nbsp;&nbsp;to http://localhost/myproject.
+    &nbsp;&nbsp;&nbsp;&nbsp;Type http://localhost/your-project-folder into the address bar and press Enter.
 
 
 ## Project Report
