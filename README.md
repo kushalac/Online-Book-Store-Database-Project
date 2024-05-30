@@ -27,13 +27,21 @@ The project is organized into the following components:
 - **CSS**: Styling language for enhancing the visual appeal of the website.
 - **Bootstrap**: Front-end framework for developing responsive and mobile-friendly web pages.
 
-## Usage
+## Step-by-Step Guide to Running Your Project
 
-1. Clone the repository to your local machine.
-2. Set up a PHP and MySQL environment.
-3. Import the provided SQL database script into your MySQL database.
-4. Configure the database connection in the project files.
-5. Run the project using a web server.
+1. Clone the repository to your local machine and store it in htdocs in xampp.
+2. Start Apache and MySQL:
+  Open the XAMPP Control Panel.
+  Click the `Start` button next to Apache.
+  Click the `Start` button next to MySQL.
+3. Locate this Project in htdocs:
+  The htdocs directory is typically found in C:\xampp\htdocs\ on Windows or /Applications/XAMPP/htdocs/ on macOS.
+  Your project folder should be directly inside htdocs. For example, if your project is named myproject, the path should be C:\xampp\htdocs\myproject (Windows) or /Applications/XAMPP/htdocs/myproject (macOS).
+4. Access Your Project in a Browser:
+  Open your web browser.
+  Type http://localhost/your-project-folder into the address bar and press Enter.
+  Replace your-project-folder with the name of your project folder. For example, if your project folder is named myproject, you would go to http://localhost/myproject.
+
 
 ## Project Report
 
