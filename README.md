@@ -31,16 +31,16 @@ The project is organized into the following components:
 
 1. Clone the repository to your local machine and store it in htdocs in xampp.
 2. Start Apache and MySQL:<br>
-    Open the XAMPP Control Panel.<br>
-    Click the `Start` button next to Apache.<br>
-    Click the `Start` button next to MySQL.
+    &nbsp;&nbsp;&nbsp;&nbsp;Open the XAMPP Control Panel.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;Click the `Start` button next to Apache.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;Click the `Start` button next to MySQL.
 3. Locate this Project in htdocs:<br>
-    The htdocs directory is typically found in C:\xampp\htdocs\ on Windows or /Applications/XAMPP/htdocs/ on macOS.<br>
-    Your project folder should be directly inside htdocs. For example, if your project is named myproject, the path should be C:\xampp\htdocs\myproject (Windows) or /Applications/XAMPP/htdocs/myproject (macOS).
+    &nbsp;&nbsp;&nbsp;&nbsp;The htdocs directory is typically found in C:\xampp\htdocs\ on Windows or /Applications/XAMPP/htdocs/ on macOS.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;our project folder should be directly inside htdocs. For example, if your project is named myproject, the path should be C:\xampp\htdocs\myproject (Windows) or /Applications/XAMPP/htdocs/myproject (macOS).
 4. Access Your Project in a Browser:<br>
-    Open your web browser.<br>
-    Type http://localhost/your-project-folder into the address bar and press Enter.<br>
-    Replace your-project-folder with the name of your project folder. For example, if your project folder is named myproject, you would go to http://localhost/myproject.
+    &nbsp;&nbsp;&nbsp;&nbsp;Open your web browser.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;Type http://localhost/your-project-folder into the address bar and press Enter.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;Replace your-project-folder with the name of your project folder. For example, if your project folder is named myproject, you would go to http://localhost/myproject.
 
 
 ## Project Report
