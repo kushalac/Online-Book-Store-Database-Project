@@ -1,12 +1,3 @@
--- phpMyAdmin SQL Dump
--- version 5.1.1
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Generation Time: May 30, 2024 at 11:21 PM
--- Server version: 10.4.22-MariaDB
--- PHP Version: 8.1.1
-
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
@@ -39,8 +30,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `full_name`, `email`, `password`) VALUES
-(1, 'kushal', 'kushalshetty2002@gmail.com', '$2y$10$FGlFvsaKs57kmTrdFHnpfe4XsrsMRZga9f1KF8iDcly1Lr0NskY/m'),
-(2, 'Hitesh N', 'hiteshnovember@gmail.com', '$2y$10$rcqZFAI2X0F1SB4dFT.hG.0LnMsYEP92wHP1diTIiWtT6qcVh9eZy');
+(1, 'admin name', 'admin mail id', 'password');
 
 --
 -- Triggers `admin`
@@ -70,8 +60,7 @@ CREATE TABLE `admin_backup` (
 --
 
 INSERT INTO `admin_backup` (`id`, `full_name`, `email`, `password`) VALUES
-(1, 'kushal', 'kushalshetty2002@gmail.com', '$2y$10$FGlFvsaKs57kmTrdFHnpfe4XsrsMRZga9f1KF8iDcly1Lr0NskY/m'),
-(2, 'Hitesh N', 'hiteshnovember@gmail.com', '$2y$10$rcqZFAI2X0F1SB4dFT.hG.0LnMsYEP92wHP1diTIiWtT6qcVh9eZy');
+(1, 'admin name', 'admin mail id', 'password');
 
 -- --------------------------------------------------------
 
