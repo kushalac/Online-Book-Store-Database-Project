@@ -10,6 +10,7 @@ The Online Book Store Database project is a PHP and MySQL-based system designed 
 - MySQL
 - CSS
 - Bootstrap
+- Xampp
 
 ## Features
 
